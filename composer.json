@@ -55,16 +55,6 @@
             "Tests\\": "tests/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/atymic/laravel-preset"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/atymic/inertia-table"
-        }
-    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
