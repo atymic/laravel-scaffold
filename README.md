@@ -8,6 +8,12 @@ This is the scaffold I use for new laravel projects. In a nut shell, it's a basi
 
 I'll try and keep it updated with major laravel version bumps :)
 
+## Installing
+
+```bash
+$ composer create-project --prefer-dist atymic/laravel-scaffold app-name
+```
+
 ## Packages
 
 I've pre-installed a bunch of packages I end up installing on every project anyway. You can see a list of them in the
@@ -20,9 +26,9 @@ At some point, I'll update this to make it more customised.
 
 
 ### Screenshots
-![home](./screenshots/home.png)
-
 ![login](./screenshots/login.png)
+
+![home](./screenshots/home.png)
 
 ## Licence
 MIT :)
