@@ -2,7 +2,7 @@
 
 This is the scaffold I use for new laravel projects. In a nut shell, it's a basic laravel app, with the following stack:
 
-- Laravel (obviously) 6.x
+- Laravel (obviously) 7.x
 - Inertia.js (and Vue)
 - TailwindCSS
 
